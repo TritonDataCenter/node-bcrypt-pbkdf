@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "Port of the OpenBSD bcrypt_pbkdf function to pure JS",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyent/node-bcrypt-pbkdf.git"
+  },
   "dependencies": {
     "tweetnacl": "^0.14.3"
   },
