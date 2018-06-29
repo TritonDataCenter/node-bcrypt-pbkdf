@@ -7,6 +7,10 @@
     "url": "git://github.com/joyent/node-bcrypt-pbkdf.git"
   },
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joyent/node-bcrypt-pbkdf.git"
+  },
   "dependencies": {
     "tweetnacl": "^0.14.3"
   },
